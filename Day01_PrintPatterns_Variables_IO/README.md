@@ -22,4 +22,5 @@ To learn basic python syntax including print statements, varibles, user input an
 - variables_io.py
 
 ## Next Step
-Learn conditional statements and decision making in Python.
+
+Learn about the datatypes and type conversion in Python.
