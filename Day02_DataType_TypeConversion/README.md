@@ -1,25 +1,27 @@
 # Day 02 - Data types and Type Conversion
 
-## Objectives
-To learn basic python data types, printing and type conversion
+## Objective
+Understand Python's built-in data types and learn how to convert between different data types using type casting.
 
 ## Tools Used
 - Python 3
 - VSCode
 
 ## Task Completed
-- Declared variables of different datatypes
-- Took user input and conveted into other datatype
-- Converted datatype from float to integer and integer to string
+- Explored built-in data types
+- Used type() to identify data types
+- Practiced type conversion (int, float, str)
+- Handled numeric inut from users
 
 ## Key Learnings
-- Understood how declare variabkes of different datatypes
-- Learned to use input() and type conversion
-- Practiced conversion of different datatypes
+- input() always returns a string
+- Type conversion is required for arithmetic operations
+- Incorrect type handling can cause ruuntime errors
 
 ## Files
 - data_types.py
 - type_conversion.py
 
 ## Next Step
+
 Learn conditional statements and decision making in Python.
