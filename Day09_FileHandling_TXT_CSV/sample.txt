@@ -1,0 +1,3 @@
+Python is easy to learn.
+Data science is interesting.
+Practice daily to improve skills.
